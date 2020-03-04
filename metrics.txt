@@ -1,0 +1,38 @@
+Metrics evaluating `trained` Logistic Regression model on TEST set:
+Scaled features accuracy score:		0.805
+Scaled features precision score:	0.571
+Scaled features recall score:		0.831
+Scaled features f1 score:		0.677
+Scaled features auc score:		0.902
+
+
+Metrics evaluating `trained` RandomForest model on TEST set:
+Scaled features accuracy score:		0.846
+Scaled features precision score:	0.724
+Scaled features recall score:		0.602
+Scaled features f1 score:		0.658
+Scaled features auc score:		0.898
+
+
+Metrics evaluating `trained` Gradient Boosting model on TEST set:
+Scaled features accuracy score:		0.867
+Scaled features precision score:	0.778
+Scaled features recall score:		0.643
+Scaled features f1 score:		0.704
+Scaled features auc score:		0.922
+
+
+Metrics evaluating `trained` AdaBoost model on TEST set:
+Scaled features accuracy score:		0.870
+Scaled features precision score:	0.777
+Scaled features recall score:		0.658
+Scaled features f1 score:		0.713
+Scaled features auc score:		0.926
+
+
+Metrics evaluating `trained` Keras MLP model on TEST set:
+Scaled features accuracy score:		0.848
+Scaled features precision score:	0.750
+Scaled features recall score:		0.574
+Scaled features f1 score:		0.650
+Scaled features auc score:		0.900
